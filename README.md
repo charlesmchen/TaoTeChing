@@ -12,7 +12,12 @@ _(aka) Lao Tze, Lao Tzu, Lao Tsu, Laozi, Laotse, Laotze_
 
 ### About
 
-English Translation by Charles Matthew Chen [charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com)
+Maintained by Charles Matthew Chen.
+
+
+### How To Contribute
+
+You can contribute suggestions via [GitHub issue](https://github.com/charlesmchen/TaoTeChing/issues) and improvements via [Pull Request](https://github.com/charlesmchen/TaoTeChing/pulls) or email me at  [charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com) or DM me on twitter [@cmchen](https://twitter.com/cmchen?lang=en).
 
 
 ### Where to Begin
@@ -1534,17 +1539,16 @@ That is why it is the most precious thing in the world.
 ```
 Act without acting,
 Work without working,
+Find flavor in the flavorless.
 
-Find flavor in the flavorless.
-Regard the small as large and the few as many,
-Act without acting,
-Work without working,
-Find flavor in the flavorless.
-Regard the small as large and the few as many,
 Treat the small as large and the few as many,
+Treat small things as though they were large
+And the few as though they were many,
 And repay resentment with kindness.
-Plan for difficulties while they are still easy;
+
+Plan for hard things while they are still easy;
 Deal with large matters while they're still small.
+
 The most difficult things in the world begin as things that are easy;
 The most difficult problems begin as things that are easy;
 The greatest difficulties arise from small problems,
@@ -1553,30 +1557,43 @@ The greatest difficulties are born of easy problems,
 The hardest tasks start as s
 The greatest difficulties arise from small ones,
 The greatest problems arise from small ones,
+
 The largest things in the world start small.
+
+All hard problems were once easy;
+All great things start small.
 Therefore the wise do not aspire to do great things,
 And thereby accomplish great things.
+
 Those who too lightly agree will necessarily be trusted by few;
 Those who agree too quickly are not trusted,
 Casual agreements cannot not be trusted,
 "lightly granted rarely honored."
 Promises made lightly cannot be trusted,
 A promise made lightly is rarely honored,
+Promises made lightly are rarely honored,
+
 And those who regard many things as easy will necessarily [end up] with many difficulties.
 And those who see everything as easy end up in trouble.
 And those who dismiss things as easy end up in trouble.
 trivial things
+Those who think things easy find things difficult.
+
 Therefore the wise think everything difficult,
 and thereby have no difficulty.
 ````
 
 
+
 #### Notes:
-* Prefer commas to semi-colons
+
+* This chapter recalls the saying "a stitch in time saves nine".
+* Ursula Le Guin titles this chapter "Consider beginnings."
+* Prefer commas to semi-colons.
 * Capitalize first word of each line.
 * Render:
-* "sage" as "the wise"
-* "the tao" as "the way"
+  * "the sage" as "the wise"
+  * "the tao" as "the way"
 
 
 ````
@@ -1857,6 +1874,7 @@ The Way of Man is to act on behalf of others and not to compete with them.
   * The text is available online, though it is missing the very useful commentary and introduction.
   * This translation is based on the [Ma—wang—tui texts](http://en.wikipedia.org/wiki/Ma%E2%80%94wang%E2%80%94tui_Texts), a recent archaelogical find of early versions of the Tao.
 * Arthur Waley
+  * Waley has helpful notes around the wordplay, sayings, idioms and references in the text.
 * Witter Bynner
 * Roger T. Ames and David Hall
 * Ursula K. Le Guin
