@@ -382,12 +382,12 @@ Care for them, but don't possess them.
 Lead them, but do not rule them.
 This is the Mysterious Virtue.
 ````
-	
+
 
 
 #### Notes
 
-	
+
 * 'Knowledge' is a pejorative term in this context, a lack of emptiness of the mind.
 * I am dissatisfied with much of this chapter.
 
@@ -1532,10 +1532,10 @@ That is why it is the most precious thing in the world.
 
 
 ```
-  Act without acting,
-  Work without working,
-   
-  Find flavor in the flavorless.
+Act without acting,
+Work without working,
+
+Find flavor in the flavorless.
 Regard the small as large and the few as many,
 Act without acting,
 Work without working,
@@ -1548,7 +1548,7 @@ Deal with large matters while they're still small.
 The most difficult things in the world begin as things that are easy;
 The most difficult problems begin as things that are easy;
 The greatest difficulties arise from small problems,
-	trivial
+trivial
 The greatest difficulties are born of easy problems,
 The hardest tasks start as s
 The greatest difficulties arise from small ones,
@@ -1565,7 +1565,7 @@ A promise made lightly is rarely honored,
 And those who regard many things as easy will necessarily [end up] with many difficulties.
 And those who see everything as easy end up in trouble.
 And those who dismiss things as easy end up in trouble.
-	trivial things
+trivial things
 Therefore the wise think everything difficult,
 and thereby have no difficulty.
 ````
@@ -1575,8 +1575,8 @@ and thereby have no difficulty.
 * Prefer commas to semi-colons
 * Capitalize first word of each line.
 * Render:
-  * "sage" as "the wise"
-  * "the tao" as "the way"
+* "sage" as "the wise"
+* "the tao" as "the way"
 
 
 ````
@@ -1598,7 +1598,7 @@ Deal with large matters while they're still small.
 The most difficult things in the world begin as things that are easy;
 The most difficult problems begin as things that are easy;
 The greatest difficulties arise from small problems,
-	trivial
+trivial
 The greatest difficulties are born of easy problems,
 The hardest tasks start as s
 The greatest difficulties arise from small ones,
@@ -1618,7 +1618,7 @@ A promise made lightly is rarely honored,
 And those who regard many things as easy will necessarily [end up] with many difficulties.
 And those who see everything as easy end up in trouble.
 And those who dismiss things as easy end up in trouble.
-	trivial things
+trivial things
 Therefore, even the Sage regards things as difficult,
 Therefore the wise see things as difficult
 Therefore the wise see the difficulty in easy things,
