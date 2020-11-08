@@ -15,11 +15,9 @@ _(aka) Lao Tze, Lao Tzu, Lao Tsu, Laozi, Laotse, Laotze_
 English Translation by Charles Matthew Chen [charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com)
 
 
-
 ### Where to Begin
 
 I suggest you begin with [Chapter 31](#chapter-31).
-
 
 
 ### Invocation
@@ -36,7 +34,6 @@ I aspire to a style of plain English in the spirit of Strunk & White.
 This text is available under the _"Free-est Of The Free"_ License.
 Basically, this means that you may do whatever you want with it
 (ie. distribute, change, sell) without my permission, without crediting me and without any other obligation to me.
-
 
 
 ### Chapters
@@ -125,13 +122,7 @@ Basically, this means that you may do whatever you want with it
 [81](#chapter-81)
 
 
-
-
 ### Chapter 1
-
-
-
-
 
 
 ````
@@ -155,21 +146,13 @@ Those with desire will see surfaces.
 -->
 
 
-
-
 #### Notes
 
 
 * The "10,000 Things" is a term meaning all of phenomenal reality. [Wikipedia](http://en.wikipedia.org/wiki/10000_\(number\))
 
 
-
-
 ### Chapter 2
-
-
-
-
 
 
 ````
@@ -216,13 +199,7 @@ By his not dwelling upon it, it does not leave.
 * The word non—being, which might be better rendered as absence.
 
 
-
-
 ### Chapter 3
-
-
-
-
 
 
 ````
@@ -242,21 +219,15 @@ unknowing and undesiring,
 and keep the knowing from daring to act.
 By acting with out acting,
 there is no disorder.
+````
 
 
 #### Notes
 
 * Could "become restless" be better rendered "covet"?
-````
-
-
 
 
 ### Chapter 4
-
-
-
-
 
 
 ````
@@ -272,6 +243,7 @@ settles the dust.
 It hardly seems to exist.
 We do not know who gave it birth;
 it is older than God.
+````
 
 
 #### Notes
@@ -279,16 +251,9 @@ it is older than God.
 * 'It hardly seems to exist' may be wrong; perhaps
 * 'Yet it seems to remain hidden' or
 * 'Though hidden, it seems to exist' could be a better rendering.
-````
-
-
 
 
 ### Chapter 5
-
-
-
-
 
 
 ````
@@ -303,6 +268,7 @@ though empty, it is inexhaustible;
 Work it, and more comes out.
 Many words count little;
 Better to keep to what's inside.
+````
 
 
 #### Notes
@@ -310,16 +276,9 @@ Better to keep to what's inside.
 * 'Straw dogs' were sacrificial effigies, treated as sacred before the offering ceremony, but after which they were discarded and trampled.
 * Still, 'straw dogs' may be better rendered as 'a tool' than 'a sacrifice.'
 * What is meant by the 'the center' here?
-````
-
-
 
 
 ### Chapter 6
-
-
-
-
 
 
 ````
@@ -329,18 +288,15 @@ The gateway of the mysterious female
 is called the root of Heaven and Earth.
 Eternal, it hardly seems to exist.
 Yet when drawn upon, it is never exhausted.
-### Notes
-* The valley is an image of emptiness.
 ````
 
 
+#### Notes
+
+* The valley is an image of emptiness.
 
 
 ### Chapter 7
-
-
-
-
 
 
 ````
@@ -366,13 +322,7 @@ Is it not because he is selfless,
 -->
 
 
-
-
 ### Chapter 8
-
-
-
-
 
 
 ````
@@ -393,13 +343,7 @@ no wrong is done.
 ````
 
 
-
-
 ### Chapter 9
-
-
-
-
 
 
 ````
@@ -416,13 +360,7 @@ such is the way of Heaven.
 ````
 
 
-
-
 ### Chapter 10
-
-
-
-
 
 
 ````
@@ -454,13 +392,7 @@ This is the Mysterious Virtue.
 * I am dissatisfied with much of this chapter.
 
 
-
-
 ### Chapter 11
-
-
-
-
 
 
 ````
@@ -487,13 +419,7 @@ Notes:
 * The last sentence.  Shouldn't be prescriptive. Might be better rendered as "what—is—not (also) has value."
 
 
-
-
 ### Chapter 12
-
-
-
-
 
 
 ````
@@ -505,6 +431,7 @@ The Five Tones deafen the ears.
 Therefore the wise
 care for the belly and not the eyes;
 reject that and take this.
+````
 
 
 #### Notes
@@ -512,16 +439,9 @@ reject that and take this.
 * The Five Colors are green, red, yellow, white and black.
 * The Five Flavors are sweet, bitter, salty, sour and pungent.
 * The Five Tones are the tones of the Chinese musical scale, C, D, E, G and A.
-````
-
-
 
 
 ### Chapter 13
-
-
-
-
 
 
 ````
@@ -553,13 +473,7 @@ before tending to the world,
 -->
 
 
-
-
 ### Chapter 14
-
-
-
-
 
 
 ````
@@ -587,13 +501,7 @@ This is the thread of the way.
 ````
 
 
-
-
 ### Chapter 15
-
-
-
-
 
 
 ````
@@ -616,13 +524,7 @@ therefore they can wear out yet never need renewal.
 ````
 
 
-
-
 ### Chapter 16
-
-
-
-
 
 
 ````
@@ -648,13 +550,7 @@ and to be forever free from harm.
 ````
 
 
-
-
 ### Chapter 17
-
-
-
-
 
 
 ````
@@ -674,13 +570,7 @@ yet people say,
 ````
 
 
-
-
 ### Chapter 18
-
-
-
-
 
 
 ````
@@ -692,21 +582,15 @@ When The Six Relations<!-- (all things)(our relationships) --> are not in harmon
 only then do filial piety and affection appear.
 When the state is in disarray,
 only then are there virtuous officials.
+````
 
 
 #### Notes
 
 * The Six Relations are father, son, older brother, younger brother, husband and wife.
-````
-
-
 
 
 ### Chapter 19
-
-
-
-
 
 
 ````
@@ -724,13 +608,7 @@ Do away with learning and be free of worry.
 ````
 
 
-
-
 ### Chapter 20
-
-
-
-
 
 
 ````
@@ -761,13 +639,7 @@ I want to drink mother's milk.
 ````
 
 
-
-
 ### Chapter 21
-
-
-
-
 
 
 ````
@@ -786,13 +658,7 @@ Through this.
 ````
 
 
-
-
 ### Chapter 22
-
-
-
-
 
 
 ````
@@ -815,13 +681,7 @@ Be whole, return.
 ````
 
 
-
-
 ### Chapter 23
-
-
-
-
 
 
 ````
@@ -842,21 +702,15 @@ Those who commit to undoing,
 the way will abandon.
 If you do not trust,
 you breed mistrust.
+````
 
 
 #### Notes
 
 * Don't belabor matters.
-````
-
-
 
 
 ### Chapter 24
-
-
-
-
 
 
 ````
@@ -872,13 +726,7 @@ Therefore, a person having the Way does not dwell on them.
 ````
 
 
-
-
 ### Chapter 25
-
-
-
-
 
 
 ````
@@ -906,13 +754,7 @@ And the Way follows what just is.
 ````
 
 
-
-
 ### Chapter 26
-
-
-
-
 
 
 ````
@@ -927,13 +769,7 @@ If agitated, one's mastery is lost.
 ````
 
 
-
-
 ### Chapter 27
-
-
-
-
 
 
 ````
@@ -955,13 +791,7 @@ This is called the essential mystery.
 ````
 
 
-
-
 ### Chapter 28
-
-
-
-
 
 
 ````
@@ -986,22 +816,16 @@ one returns to limitlessness.
 When uncarved wood is cut, it becomes vessels;
 When the wise are used, they become leaders.
 Truly, carving well is done with the least cutting.
+````
 
 
 #### Notes
 
 * hmm... holding to = remaining?
 * sage = the wise?
-````
-
-
 
 
 ### Chapter 29
-
-
-
-
 
 
 ````
@@ -1020,13 +844,7 @@ what is extreme, excessive or extravagant.
 ````
 
 
-
-
 ### Chapter 30
-
-
-
-
 
 
 ````
@@ -1048,13 +866,7 @@ What is not the way will soon perish.
 ````
 
 
-
-
 ### Chapter 31
-
-
-
-
 
 
 ````
@@ -1080,13 +892,7 @@ When the battle is won, we preside over a funeral.
 ````
 
 
-
-
 ### Chapter 32
-
-
-
-
 
 
 ````
@@ -1106,13 +912,7 @@ as streams flow into rivers and seas.
 ````
 
 
-
-
 ### Chapter 33
-
-
-
-
 
 
 ````
@@ -1127,13 +927,7 @@ To die but not be forgotten: that is long life.
 ````
 
 
-
-
 ### Chapter 34
-
-
-
-
 
 
 ````
@@ -1151,13 +945,7 @@ the wise achieve greatness.
 ````
 
 
-
-
 ### Chapter 35
-
-
-
-
 
 
 ````
@@ -1170,21 +958,15 @@ so thin and flavorless.
 Looking at it, it cannot be seen;
 Listening to it, it cannot be heard;
 Yet using it, it cannot be cannot be used up.
+````
 
 
 #### Notes
 
 What is meant by the great image/symbol/idea?
-````
-
-
 
 
 ### Chapter 36
-
-
-
-
 
 
 ````
@@ -1204,18 +986,12 @@ best to leave one's sharpest weapons out of sight.
 ````
 
 
-
 #### Notes
 
 * Arthur Waley: "The fish symbolizes armor because both have scales."
 
 
-
 ### Chapter 37
-
-
-
-
 
 
 ````
@@ -1230,13 +1006,7 @@ Without desire, All Under Heaven (the world) would be right.
 ````
 
 
-
-
 ### Chapter 38
-
-
-
-
 
 
 ````
@@ -1259,18 +1029,12 @@ He rejects that and takes this.
 ````
 
 
-
 #### Notes
 
 * There is some uncertainty over the meaning of Foreknowledge here, but it seems to mean "judging a thing beforehand."  Like the next line, this is a dig at Confucianist doctrine.
 
 
-
 ### Chapter 39
-
-
-
-
 
 
 ````
@@ -1296,18 +1060,12 @@ but to remain as solid as stone.
 ````
 
 
-
 #### Notes
 
 * attained the one: comprehended?
 
 
-
 ### Chapter 40
-
-
-
-
 
 
 ````
@@ -1318,13 +1076,7 @@ And being originates in non—being.
 ````
 
 
-
-
 ### Chapter 41
-
-
-
-
 
 
 ````
@@ -1350,18 +1102,12 @@ Only the way cultivates all things and sees them through.
 ````
 
 
-
 #### Notes
 
 * Te should always be rendered by name?
 
 
-
 ### Chapter 42
-
-
-
-
 
 
 ````
@@ -1383,13 +1129,7 @@ I take this as the basis of my teaching.
 ````
 
 
-
-
 ### Chapter 43
-
-
-
-
 
 
 ````
@@ -1402,18 +1142,12 @@ few can understand.
 ````
 
 
-
 #### Notes
 
 * The symbolism here is of water and rock.
 
 
-
 ### Chapter 44
-
-
-
-
 
 
 ````
@@ -1428,13 +1162,7 @@ and so endure.
 ````
 
 
-
-
 ### Chapter 45
-
-
-
-
 
 
 ````
@@ -1451,13 +1179,7 @@ Being quiet and tranquil, All Under Heaven (the world) is set to rights.
 ````
 
 
-
-
 ### Chapter 46
-
-
-
-
 
 
 ````
@@ -1470,13 +1192,7 @@ The contentment of knowing that you have enough, is truly enduring.
 ````
 
 
-
-
 ### Chapter 47
-
-
-
-
 
 
 ````
@@ -1489,13 +1205,7 @@ And act without doing a thing.
 ````
 
 
-
-
 ### Chapter 48
-
-
-
-
 
 
 ````
@@ -1509,13 +1219,7 @@ one makes oneself unworthy of steering the world.
 ````
 
 
-
-
 ### Chapter 49
-
-
-
-
 
 
 ````
@@ -1534,13 +1238,7 @@ and the wise are like their children.
 ````
 
 
-
-
 ### Chapter 50
-
-
-
-
 
 
 ````
@@ -1559,13 +1257,7 @@ And why? Because there is no place for death in them.
 ````
 
 
-
-
 ### Chapter 51
-
-
-
-
 
 
 ````
@@ -1584,13 +1276,7 @@ this we call mysterious virtue.
 ````
 
 
-
-
 ### Chapter 52
-
-
-
-
 
 
 ````
@@ -1617,13 +1303,7 @@ This is returning to the eternal.
 * "dim light" = insight?
 
 
-
-
 ### Chapter 53
-
-
-
-
 
 
 ````
@@ -1644,13 +1324,7 @@ and thievery isn't the Way.
 ````
 
 
-
-
 ### Chapter 54
-
-
-
-
 
 
 ````
@@ -1673,13 +1347,7 @@ By this.
 ````
 
 
-
-
 ### Chapter 55
-
-
-
-
 
 
 ````
@@ -1709,13 +1377,7 @@ Or: That which is in its prime will never be better.
 Or: After you reach your prime, it's all downhill.
 
 
-
-
 ### Chapter 56
-
-
-
-
 
 
 ````
@@ -1743,13 +1405,7 @@ For this reason, they are the most noble Under Heaven (in the world).
 * For tong: union, equality, parity, balance.
 
 
-
-
 ### Chapter 57
-
-
-
-
 
 
 ````
@@ -1769,13 +1425,7 @@ desire nothing, and the people will be Uncarved Block (simple, genuine).
 ````
 
 
-
-
 ### Chapter 58
-
-
-
-
 
 
 ````
@@ -1798,13 +1448,7 @@ shine, but don't dazzle.
 ````
 
 
-
-
 ### Chapter 59
-
-
-
-
 
 
 ````
@@ -1822,13 +1466,7 @@ That's the Way to live long and see clearly.
 ````
 
 
-
-
 ### Chapter 60
-
-
-
-
 
 
 ````
@@ -1842,13 +1480,7 @@ Well-being will flow.
 ````
 
 
-
-
 ### Chapter 61
-
-
-
-
 
 
 ````
@@ -1873,13 +1505,7 @@ and it is fitting that a large kingom humble itself.
 ````
 
 
-
-
 ### Chapter 62
-
-
-
-
 
 
 ````
@@ -1902,13 +1528,7 @@ That is why it is the most precious thing in the world.
 ````
 
 
-
-
 ### Chapter 63
-
-
-
-
 
 
 ```
@@ -2228,7 +1848,6 @@ What he has is even greater.
 Therefore, the Way of Heaven is to benefit and not cause any harm;
 The Way of Man is to act on behalf of others and not to compete with them.
 -->
-
 
 
 ### Translations of the Tao Te Ching
