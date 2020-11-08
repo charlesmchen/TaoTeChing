@@ -23,19 +23,10 @@ Please share feedback & suggestions via:
 * Open a [Pull Request](https://github.com/charlesmchen/TaoTeChing/pulls) to propose changes.
 
 
-### Where to Begin
-
-I suggest you begin with [Chapter 31](#chapter-31).
-
-
 
 ### Invocation
 
 I aspire to a style of plain English in the spirit of Strunk & White.
-
-> Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that he make every word tell.
-
-— The Elements of Style
 
 
 ### License
