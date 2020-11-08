@@ -13,6 +13,10 @@ English Translation by Charles Matthew Chen
 
 [charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com)
 
+### Where to Begin
+
+I suggest you begin with [Chapter 31](#chapter-31).
+
 ### Invocation
 
 I aspire to a style of plain English in the spirit of Strunk & White.
@@ -391,7 +395,7 @@ Basically, this means that you may do whatever you want with it
 >
 >Is it not because he is selfless,
 >
---
+-->
 
 
 
@@ -454,8 +458,6 @@ Basically, this means that you may do whatever you want with it
 
 
 ### Chapter 10
->
-><a class="chapter_link" name="chapter_\d+" href="#chapter_\d+">#</a>
 
 >In nourishing the soul and embracing The One,
 >
@@ -490,90 +492,12 @@ Basically, this means that you may do whatever you want with it
 >Lead them, but do not rule them.
 >
 >This is the Mysterious Virtue.
->
-></div>
->
-><!--
->
->[cause them to act but not be dependent.]
->
->--
 
-
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-></div>
->
-></div>
->
-><div class="notes" name="notes">
->
-><div class="title">
->
->Notes:
->
-></div>
->
-><div class="body" name="body">
->
->'Knowledge' is a pejorative term in this context,
->
->a lack of emptiness of the mind.
->
-></div>
->
-></div>
->
->
-><div class="regrets" name="regrets">
->
-><div class="title">
->
->Regrets:
->
-></div>
->
-><div class="body" name="body">
->
->I am dissatisfied with much of this chapter.
->
-></div>
+	
+#### Notes
+	
+* 'Knowledge' is a pejorative term in this context, a lack of emptiness of the mind.
+* I am dissatisfied with much of this chapter.
 
 
 
@@ -617,32 +541,12 @@ Basically, this means that you may do whatever you want with it
 >
 >we value what is not.
 >
->--
+>-->
 
 
->
->
->
->
->
->
->
->
->
->
->
->
->
->
-><a target="_blank" href="http://thesaurus.reference.com/search?q=useful">useful</a
+Notes:
 
-
->The last sentence.  Shouldn't be prescriptive.
->
->Might be better rendered as "what—is—not (also) has value."
->
-></div>
-
+* The last sentence.  Shouldn't be prescriptive. Might be better rendered as "what—is—not (also) has value."
 
 
 
@@ -667,45 +571,11 @@ Basically, this means that you may do whatever you want with it
 >
 >reject that and take this.
 
->
->
->
->
->
->
->
->
->
->
->
->
-></div>
->
-></div>
->
-><div class="notes" name="notes">
->
-><div class="title">
->
->Notes:
->
-></div>
->
-><div class="body" name="body">
->
->The Five Colors are green, red, yellow, white and black.
->
-></div>
->
-><div class="body" name="body">
->
->The Five Flavors are sweet, bitter, salty, sour and pungent.
->
-></div>
->
-><div class="body" name="body">
->
->The Five Tones are the tones of the Chinese musical scale, C, D, E, G and A.
+#### Notes
+
+* The Five Colors are green, red, yellow, white and black.
+* The Five Flavors are sweet, bitter, salty, sour and pungent.
+* The Five Tones are the tones of the Chinese musical scale, C, D, E, G and A.
 
 
 
@@ -759,7 +629,7 @@ Basically, this means that you may do whatever you want with it
 >
 >before tending to the world,
 >
->--
+>-->
 
 
 
@@ -2422,40 +2292,145 @@ Or: After you reach your prime, it's all downhill.
 ### Chapter 63
 
 
+```
+  Act without acting,
+  Work without working,
+```
 
-><!--
+  Act without acting,
+  Work without working,
+   
+  Find flavor in the flavorless.
 >
+>Regard the small as large and the few as many,
+
+
+> Act without acting,
+>
+> Work without working,
+>
+> Find flavor in the flavorless.
+>
+>Regard the small as large and the few as many,
+> Treat the small as large and the few as many,
+>
+> And repay resentment with kindness.
+>
+> Plan for difficulties while they are still easy;
+>
+> Deal with large matters while they're still small.
+>
+>The most difficult things in the world begin as things that are easy;
+The most difficult problems begin as things that are easy;
+The greatest difficulties arise from small problems,
+	trivial
+The greatest difficulties are born of easy problems,
+The hardest tasks start as s
+The greatest difficulties arise from small ones,
+The greatest problems arise from small ones,
+>
+> The largest things in the world start small.
+>
+> Therefore the wise do not aspire to do great things,
+>
+> And thereby accomplish great things.
+
+
+
+>
+>Those who too lightly agree will necessarily be trusted by few;
+Those who agree too quickly are not trusted,
+Casual agreements cannot not be trusted,
+"lightly granted rarely honored."
+Promises made lightly cannot be trusted,
+A promise made lightly is rarely honored,
+>
+>And those who regard many things as easy will necessarily [end up] with many difficulties.
+And those who see everything as easy end up in trouble.
+And those who dismiss things as easy end up in trouble.
+	trivial things
+
+> Therefore the wise think everything difficult,
+>
+> and thereby have no difficulty.
+
+
+
+#### Notes:
+
+* Prefer commas to semi-colons
+* Capitalize first word of each line.
+* Render:
+  * "sage" as "the wise"
+  * "the tao" as "the way"
+
+
+
+
 >Act without acting;
 >
 >Serve without concern for affairs;
+Work effortlessly,
+Work without working,
 >
 >Find flavor in what has no flavor.
+Find flavor in the flavorless.
 >
 >Regard the small as large and the few as many,
+Treat the small as large and the few as many,
+
 >
 >And repay resentment with kindness.
+Repay resentment with kindness.
+
 >
 >Plan for the difficult while it is easy;
+>Plan for the difficult while it's still easy;
+Plan for difficulties while they are still easy;
 >
 >Act on the large while it's minute.
+Deal with large matters while they're still small.
 >
 >The most difficult things in the world begin as things that are easy;
+The most difficult problems begin as things that are easy;
+The greatest difficulties arise from small problems,
+	trivial
+The greatest difficulties are born of easy problems,
+The hardest tasks start as s
+The greatest difficulties arise from small ones,
+The greatest problems arise from small ones,
 >
 >The largest things in the world arise from the minute.
+The largest things in the world start small.
 >
 >Therefore the Sage, to the end does not strive to do the great,
+Therefore the wise do not aspire to do great things,
 >
 >And as a result, he is able to accomplish the great;
+And thereby accomplish great things.
 >
 >Those who too lightly agree will necessarily be trusted by few;
+Those who agree too quickly are not trusted,
+Casual agreements cannot not be trusted,
+"lightly granted rarely honored."
+Promises made lightly cannot be trusted,
+A promise made lightly is rarely honored,
 >
 >And those who regard many things as easy will necessarily [end up] with many difficulties.
+And those who see everything as easy end up in trouble.
+And those who dismiss things as easy end up in trouble.
+	trivial things
 >
 >Therefore, even the Sage regards things as difficult,
+Therefore the wise see things as difficult
+Therefore the wise see the difficulty in easy things,
+Therefore the wise think everything difficult,
 >
 >And as a result, in the end he has no difficulty.
->
->-->
+and thereby have no difficulty.
+
+
+
 
 
 
@@ -2933,10 +2908,12 @@ Or: After you reach your prime, it's all downhill.
 * John C. H. Wu
 * D. C. Lau
 * Gia-Fu Feng and Jane English
+* Brian Brown Walker
 * Richard John Lynn
 * Red Pine
 * Thomas Cleary
 * Moss Roberts
+* David Hinton
 * J. Legge
 * Ron Hogan
 
