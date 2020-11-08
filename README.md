@@ -1,14 +1,15 @@
 
 # Tao Te Ching
 
-[Tao Te Ching @ Wikipedia](http://en.wikipedia.org/wiki/Tao_Te_Ching)
+[Wikipedia article on Tao Te Ching](http://en.wikipedia.org/wiki/Tao_Te_Ching)
+
 
 
 ### By Lao Tse 
 
 _(aka) Lao Tze, Lao Tzu, Lao Tsu, Laozi, Laotse, Laotze_
 
-[Lao Tse @ Wikipedia](http://en.wikipedia.org/wiki/Laozi)
+[Wikipedia article on Lao Tse](http://en.wikipedia.org/wiki/Laozi)
 
 
 
@@ -25,6 +26,7 @@ Please share feedback & suggestions via:
 ### Where to Begin
 
 I suggest you begin with [Chapter 31](#chapter-31).
+
 
 
 ### Invocation
