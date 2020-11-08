@@ -1,22 +1,47 @@
 
 # Tao Te Ching
+
 [Tao Te Ching @ Wikipedia](http://en.wikipedia.org/wiki/Tao_Te_Ching)
+
 ### By Lao Tse 
+
 _(aka) Lao Tze, Lao Tzu, Lao Tsu, Laozi, Laotse, Laotze_
+
 [Lao Tse @ Wikipedia](http://en.wikipedia.org/wiki/Laozi)
-English Translation by Charles Matthew Chen
-[charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com)
+
+
+### About
+
+English Translation by Charles Matthew Chen [charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com)
+
+
+
 ### Where to Begin
+
 I suggest you begin with [Chapter 31](#chapter-31).
+
+
+
 ### Invocation
+
 I aspire to a style of plain English in the spirit of Strunk & White.
-Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that he make every word tell.
+
+> Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that he make every word tell.
+
 — The Elements of Style
+
+
 ### License
-This text is available under the _Freest—Of—Free License_.
+
+This text is available under the _"Free-est Of The Free"_ License.
 Basically, this means that you may do whatever you want with it
 (ie. distribute, change, sell) without my permission, without crediting me and without any other obligation to me.
+
+
+
 ### Chapters
+
+
 [1](#chapter-1)
 [2](#chapter-2)
 [3](#chapter-3)
@@ -121,14 +146,21 @@ yet have different names.
 They are called mysterious,
 the most shadowy of mysteries,
 the gateway to all mysteries.
+````
+
 <!--
 The Way which can be spoken of is not the true way.
 Those without desire shall see subtlety,
 Those with desire will see surfaces.
 -->
+
+
+
+
 #### Notes
+
+
 * The "10,000 Things" is a term meaning all of phenomenal reality. [Wikipedia](http://en.wikipedia.org/wiki/10000_\(number\))
-````
 
 
 
@@ -158,6 +190,8 @@ the wise take matters as they come,
 attend to them, but do not lay claim to them,
 Their work is done without their dwelling on it,
 therefore it lasts forever.
+````
+
 <!--
 When everyone sees goodness as good,
 there begins the not&#8212;good.
@@ -173,11 +207,13 @@ And because he doesn't take any credit,
 his merit is not lost.
 By his not dwelling upon it, it does not leave.
 -->
+
+
 #### Notes
+
 * I believe non—being here means absence or nothingness.
 *  The line 'instruments and voices harmonize with each other' seems out of place in this sequence.
 * The word non—being, which might be better rendered as absence.
-````
 
 
 
@@ -206,7 +242,10 @@ unknowing and undesiring,
 and keep the knowing from daring to act.
 By acting with out acting,
 there is no disorder.
+
+
 #### Notes
+
 * Could "become restless" be better rendered "covet"?
 ````
 
@@ -233,7 +272,10 @@ settles the dust.
 It hardly seems to exist.
 We do not know who gave it birth;
 it is older than God.
+
+
 #### Notes
+
 * 'It hardly seems to exist' may be wrong; perhaps
 * 'Yet it seems to remain hidden' or
 * 'Though hidden, it seems to exist' could be a better rendering.
@@ -261,7 +303,10 @@ though empty, it is inexhaustible;
 Work it, and more comes out.
 Many words count little;
 Better to keep to what's inside.
+
+
 #### Notes
+
 * 'Straw dogs' were sacrificial effigies, treated as sacred before the offering ceremony, but after which they were discarded and trampled.
 * Still, 'straw dogs' may be better rendered as 'a tool' than 'a sacrifice.'
 * What is meant by the 'the center' here?
@@ -307,6 +352,8 @@ places himself last, yet finds himself first;
 disregards himself, yet finds that he prospers.
 Is it not because he is unselfish,
 That he is able to thrive?
+````
+
 <!--
 Therefore the Sage
 places himself last, yet finds himself first;
@@ -317,7 +364,6 @@ disregards himself, yet finds himself in the fore;
 neglects himself, yet finds that he prospers.
 Is it not because he is selfless,
 -->
-````
 
 
 
@@ -397,12 +443,15 @@ give birth to them — but lay no claim to them.
 Care for them, but don't possess them.
 Lead them, but do not rule them.
 This is the Mysterious Virtue.
+````
 	
+
+
 #### Notes
+
 	
 * 'Knowledge' is a pejorative term in this context, a lack of emptiness of the mind.
 * I am dissatisfied with much of this chapter.
-````
 
 
 
@@ -426,7 +475,8 @@ on these spaces
 turn the value of a room.
 Therefore, having is beneficial;
 not having is useful.
-</div>
+````
+
 <!--
 Therefore, what we have is valuable,
 and what we don't have is useful.
@@ -435,7 +485,6 @@ we value what is not.
 -->
 Notes:
 * The last sentence.  Shouldn't be prescriptive. Might be better rendered as "what—is—not (also) has value."
-````
 
 
 
@@ -456,7 +505,10 @@ The Five Tones deafen the ears.
 Therefore the wise
 care for the belly and not the eyes;
 reject that and take this.
+
+
 #### Notes
+
 * The Five Colors are green, red, yellow, white and black.
 * The Five Flavors are sweet, bitter, salty, sour and pungent.
 * The Five Tones are the tones of the Chinese musical scale, C, D, E, G and A.
@@ -491,13 +543,14 @@ you can entrust with the world.
 And to those who value themselves
 no more than anything else in the world,
 You can turn over the world.
+````
+
 <!--
 before put their problems first
 and the problems of the world second,
 who cares for themselves
 before tending to the world,
 -->
-````
 
 
 
@@ -639,7 +692,10 @@ When The Six Relations<!-- (all things)(our relationships) --> are not in harmon
 only then do filial piety and affection appear.
 When the state is in disarray,
 only then are there virtuous officials.
+
+
 #### Notes
+
 * The Six Relations are father, son, older brother, younger brother, husband and wife.
 ````
 
@@ -786,7 +842,10 @@ Those who commit to undoing,
 the way will abandon.
 If you do not trust,
 you breed mistrust.
+
+
 #### Notes
+
 * Don't belabor matters.
 ````
 
@@ -927,7 +986,10 @@ one returns to limitlessness.
 When uncarved wood is cut, it becomes vessels;
 When the wise are used, they become leaders.
 Truly, carving well is done with the least cutting.
+
+
 #### Notes
+
 * hmm... holding to = remaining?
 * sage = the wise?
 ````
@@ -1108,7 +1170,10 @@ so thin and flavorless.
 Looking at it, it cannot be seen;
 Listening to it, it cannot be heard;
 Yet using it, it cannot be cannot be used up.
+
+
 #### Notes
+
 What is meant by the great image/symbol/idea?
 ````
 
@@ -1136,10 +1201,13 @@ Thus the soft prevail over the hard
 and the weak overcome the strong.
 It is best to leave a fish in its pool;
 best to leave one's sharpest weapons out of sight.
-#### Notes
-* Arthur Waley: "The fish symbolizes armor because both have scales."
 ````
 
+
+
+#### Notes
+
+* Arthur Waley: "The fish symbolizes armor because both have scales."
 
 
 
@@ -1188,10 +1256,13 @@ Therefore the full—grown person
 set store by the substance rather than the husk,
 by the fruit and not the flower.
 He rejects that and takes this.
-#### Notes
-* There is some uncertainty over the meaning of Foreknowledge here, but it seems to mean "judging a thing beforehand."  Like the next line, this is a dig at Confucianist doctrine.
 ````
 
+
+
+#### Notes
+
+* There is some uncertainty over the meaning of Foreknowledge here, but it seems to mean "judging a thing beforehand."  Like the next line, this is a dig at Confucianist doctrine.
 
 
 
@@ -1222,10 +1293,13 @@ Isn't this the mighty rooting itself in humility?
 They regard their many carriages as no carriage at all.
 They do not want to glitter like jade,
 but to remain as solid as stone.
-#### Notes
-* attained the one: comprehended?
 ````
 
+
+
+#### Notes
+
+* attained the one: comprehended?
 
 
 
@@ -1273,10 +1347,13 @@ the greatest music has the faintest notes;
 the greatest form has no shape.
 The way is great but has no name.
 Only the way cultivates all things and sees them through.
-#### Notes
-* Te should always be rendered by name?
 ````
 
+
+
+#### Notes
+
+* Te should always be rendered by name?
 
 
 
@@ -1322,10 +1399,13 @@ Having no substance, it can enter where there is no gap.
 That is how I know the value of acting without acting.
 The wordless teaching, the value of not acting—
 few can understand.
-#### Notes
-* The symbolism here is of water and rock.
 ````
 
+
+
+#### Notes
+
+* The symbolism here is of water and rock.
 
 
 
@@ -1528,10 +1608,13 @@ to grasp what is fleeting is strength.
 Follow outward light back to insight,
 and be safe from harm.
 This is returning to the eternal.
+````
+
+
 #### Notes
+
 * Instead of "is called", I prefer "we call" or even "is."
 * "dim light" = insight?
-````
 
 
 
@@ -1616,11 +1699,14 @@ controlling one's breath is forcing things.
 Whatever reaches its prime, then begins to decay;
 this is not the way,
 and whatever is not the way will soon end.
+````
+
+
 #### Notes
+
 * 'What is exalted will soon decay' vs. 'What has reached its prime has begun to decay.'
 Or: That which is in its prime will never be better.
 Or: After you reach your prime, it's all downhill.
-````
 
 
 
@@ -1649,9 +1735,12 @@ but one cannot harm them.
 One cannot glorify them,
 but one cannot humble them.
 For this reason, they are the most noble Under Heaven (in the world).
-#### Notes
-* For tong: union, equality, parity, balance.
 ````
+
+
+#### Notes
+
+* For tong: union, equality, parity, balance.
 
 
 
@@ -1822,9 +1911,6 @@ That is why it is the most precious thing in the world.
 
 
 
-````
-  Act without acting,
-  Work without working,
 ```
   Act without acting,
   Work without working,
@@ -1862,12 +1948,18 @@ And those who dismiss things as easy end up in trouble.
 	trivial things
 Therefore the wise think everything difficult,
 and thereby have no difficulty.
+````
+
+
 #### Notes:
 * Prefer commas to semi-colons
 * Capitalize first word of each line.
 * Render:
   * "sage" as "the wise"
   * "the tao" as "the way"
+
+
+````
 Act without acting;
 Serve without concern for affairs;
 Work effortlessly,
@@ -1913,6 +2005,9 @@ Therefore the wise see the difficulty in easy things,
 Therefore the wise think everything difficult,
 And as a result, in the end he has no difficulty.
 and thereby have no difficulty.
+````
+
+
 <!--
 64
 What is at rest is easy to hold;
@@ -2133,7 +2228,11 @@ What he has is even greater.
 Therefore, the Way of Heaven is to benefit and not cause any harm;
 The Way of Man is to act on behalf of others and not to compete with them.
 -->
+
+
+
 ### Translations of the Tao Te Ching
+
 * [Rick Harbaugh's parallel text](http://zhongwen.com/dao.htm).
 * Robert G. Henricks
   * The text is available online, though it is missing the very useful commentary and introduction.
