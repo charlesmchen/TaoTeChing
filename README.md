@@ -117,9 +117,6 @@ Basically, this means that you may do whatever you want with it
 [81](#chapter-81)
 
 
-
-````
-
 ### Chapter 1
 
 ````
