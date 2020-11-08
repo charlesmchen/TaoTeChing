@@ -17,7 +17,12 @@ Maintained by Charles Matthew Chen.
 
 ### How To Contribute
 
-You can contribute suggestions via [GitHub issue](https://github.com/charlesmchen/TaoTeChing/issues) and improvements via [Pull Request](https://github.com/charlesmchen/TaoTeChing/pulls) or email me at  [charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com) or DM me on twitter [@cmchen](https://twitter.com/cmchen?lang=en).
+Please share feedback & suggestions via:
+
+* Email: [charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com)
+* Twitter DM: [@cmchen](https://twitter.com/cmchen?lang=en).
+* [GitHub issue](https://github.com/charlesmchen/TaoTeChing/issues) 
+* [Pull Request](https://github.com/charlesmchen/TaoTeChing/pulls)
 
 
 ### Where to Begin
