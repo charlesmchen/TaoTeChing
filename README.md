@@ -38,7 +38,7 @@ I aspire to a style of plain English in the spirit of Strunk & White.
 
 ### License
 
-This text is available under the ["Free-est Of The Free"_ License](LICENSE.md).
+This text is available under the ["Free-est Of The Free" License](LICENSE.md).
 Basically this means that you may do whatever you want with it
 (ie. distribute, change, sell) without my permission, without crediting or informing me and without any other obligation to me.
 
