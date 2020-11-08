@@ -20,9 +20,9 @@ Maintained by Charles Matthew Chen.
 Please share feedback & suggestions via:
 
 * Email: [charlesmchen+tao@gmail.com](mailto:charlesmchen+tao@gmail.com)
-* Twitter DM: [@cmchen](https://twitter.com/cmchen?lang=en).
-* [GitHub issue](https://github.com/charlesmchen/TaoTeChing/issues) 
-* [Pull Request](https://github.com/charlesmchen/TaoTeChing/pulls)
+* Twitter DM: [@cmchen](https://twitter.com/cmchen?lang=en)
+* Open a [GitHub issue](https://github.com/charlesmchen/TaoTeChing/issues) to share feedback.
+* Open a [Pull Request](https://github.com/charlesmchen/TaoTeChing/pulls) to propose changes.
 
 
 ### Where to Begin
@@ -1547,107 +1547,21 @@ Work without working,
 Find flavor in the flavorless.
 
 Treat the small as large and the few as many,
-Treat small things as though they were large
-And the few as though they were many,
 And repay resentment with kindness.
 
 Plan for hard things while they are still easy;
 Deal with large matters while they're still small.
-
-The most difficult things in the world begin as things that are easy;
-The most difficult problems begin as things that are easy;
-The greatest difficulties arise from small problems,
-trivial
-The greatest difficulties are born of easy problems,
-The hardest tasks start as s
-The greatest difficulties arise from small ones,
-The greatest problems arise from small ones,
-
-The largest things in the world start small.
-
 All hard problems were once easy;
 All great things start small.
 Therefore the wise do not aspire to do great things,
 And thereby accomplish great things.
 
-Those who too lightly agree will necessarily be trusted by few;
-Those who agree too quickly are not trusted,
-Casual agreements cannot not be trusted,
-"lightly granted rarely honored."
-Promises made lightly cannot be trusted,
-A promise made lightly is rarely honored,
 Promises made lightly are rarely honored,
-
-And those who regard many things as easy will necessarily [end up] with many difficulties.
-And those who see everything as easy end up in trouble.
-And those who dismiss things as easy end up in trouble.
-trivial things
 Those who think things easy find things difficult.
-
 Therefore the wise think everything difficult,
 and thereby have no difficulty.
 ````
 
-
-
-#### Notes:
-
-* This chapter recalls the saying "a stitch in time saves nine".
-* Ursula Le Guin titles this chapter "Consider beginnings."
-* Prefer commas to semi-colons.
-* Capitalize first word of each line.
-* Render:
-  * "the sage" as "the wise"
-  * "the tao" as "the way"
-
-
-````
-Act without acting;
-Serve without concern for affairs;
-Work effortlessly,
-Work without working,
-Find flavor in what has no flavor.
-Find flavor in the flavorless.
-Regard the small as large and the few as many,
-Treat the small as large and the few as many,
-And repay resentment with kindness.
-Repay resentment with kindness.
-Plan for the difficult while it is easy;
-Plan for the difficult while it's still easy;
-Plan for difficulties while they are still easy;
-Act on the large while it's minute.
-Deal with large matters while they're still small.
-The most difficult things in the world begin as things that are easy;
-The most difficult problems begin as things that are easy;
-The greatest difficulties arise from small problems,
-trivial
-The greatest difficulties are born of easy problems,
-The hardest tasks start as s
-The greatest difficulties arise from small ones,
-The greatest problems arise from small ones,
-The largest things in the world arise from the minute.
-The largest things in the world start small.
-Therefore the Sage, to the end does not strive to do the great,
-Therefore the wise do not aspire to do great things,
-And as a result, he is able to accomplish the great;
-And thereby accomplish great things.
-Those who too lightly agree will necessarily be trusted by few;
-Those who agree too quickly are not trusted,
-Casual agreements cannot not be trusted,
-"lightly granted rarely honored."
-Promises made lightly cannot be trusted,
-A promise made lightly is rarely honored,
-And those who regard many things as easy will necessarily [end up] with many difficulties.
-And those who see everything as easy end up in trouble.
-And those who dismiss things as easy end up in trouble.
-trivial things
-Therefore, even the Sage regards things as difficult,
-Therefore the wise see things as difficult
-Therefore the wise see the difficulty in easy things,
-Therefore the wise think everything difficult,
-And as a result, in the end he has no difficulty.
-and thereby have no difficulty.
-````
 
 
 <!--
@@ -1895,3 +1809,13 @@ The Way of Man is to act on behalf of others and not to compete with them.
 * David Hinton
 * J. Legge
 * Ron Hogan
+
+
+
+#### Style Guide:
+
+* Prefer commas to semi-colons.
+* Capitalize first word of each line.
+* Render:
+  * "the sage" as "the wise"
+  * "the tao" as "the way"
