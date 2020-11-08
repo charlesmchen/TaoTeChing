@@ -3,16 +3,13 @@
 
 [Tao Te Ching @ Wikipedia](http://en.wikipedia.org/wiki/Tao_Te_Ching)
 
+
 ### By Lao Tse 
 
 _(aka) Lao Tze, Lao Tzu, Lao Tsu, Laozi, Laotse, Laotze_
 
 [Lao Tse @ Wikipedia](http://en.wikipedia.org/wiki/Laozi)
 
-
-### About
-
-Maintained by Charles Matthew Chen.
 
 
 ### How To Contribute
@@ -41,9 +38,9 @@ I aspire to a style of plain English in the spirit of Strunk & White.
 
 ### License
 
-This text is available under the _"Free-est Of The Free"_ License.
-Basically, this means that you may do whatever you want with it
-(ie. distribute, change, sell) without my permission, without crediting me and without any other obligation to me.
+This text is available under the ["Free-est Of The Free"_ License](LICENSE.md).
+Basically this means that you may do whatever you want with it
+(ie. distribute, change, sell) without my permission, without crediting or informing me and without any other obligation to me.
 
 
 ### Chapters
@@ -1791,7 +1788,7 @@ The Way of Man is to act on behalf of others and not to compete with them.
 * [Rick Harbaugh's parallel text](http://zhongwen.com/dao.htm).
 * Robert G. Henricks
   * The text is available online, though it is missing the very useful commentary and introduction.
-  * This translation is based on the [Ma—wang—tui texts](http://en.wikipedia.org/wiki/Ma%E2%80%94wang%E2%80%94tui_Texts), a recent archaelogical find of early versions of the Tao.
+  * This translation is based on the "Ma—wang—tui" texts ([Wikipedia](http://en.wikipedia.org/wiki/Ma%E2%80%94wang%E2%80%94tui_Texts)), a recent archaelogical find of early versions of the Tao.
 * Arthur Waley
   * Waley has helpful notes around the wordplay, sayings, idioms and references in the text.
 * Witter Bynner
