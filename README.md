@@ -1554,28 +1554,43 @@ and thereby have no difficulty.
 
 
 
+### Chapter 64
+
+
+```
+That which is still at rest is easy to get hold of,
+What hasn't happened yet is easy to plan for,
+That which is still fragile is easily broken,
+That which is still small is easily dispersed.
+Deal with things before they happen;
+Get things under control before they get out of control.
+
+A tree you can barely get your arms around grows from a tiny sprout.
+A nine-story tower rises from a basketful of dirt.
+A thousand-league journey begins with the ground under your feet.
+  
+What we interfere with, we harm.
+What we cling to, slips away.
+Therefore the wise do not interfere,
+And thereby do no harm.
+The wise do not cling to things,
+And thereby don't lose them.
+
+In their endeavors, people make a mess of things just when they're nearly done.
+Be as careful at the end as you were at the beginning, and you won't fail.
+
+Therefore the wise desire not to desire
+and do not prize precious things.
+They learn by unlearning, 
+and go back to that which others overlook.
+
+They help everything follow its own course,
+without interfering.
+````
+
+
+
 <!--
-64
-What is at rest is easy to hold;
-What has not yet given a sign is easy to plan for;
-The brittle is easily shattered;
-The minute is easily scattered;
-Act on it before it comes into being;
-Order it before it turns into chaos.
-A tree [so big] that it takes both arms to surround starts out as the tiniest shoot;
-A nine&#8212;story terrace rises up from a basket of dirt.
-A high place one hundred, one thousand feet high begins from under your feet.
-Those who act on it ruin it;
-Those who hold on to it lose it.
-Therefore the Sage does not act,
-And as a result, he doesn't ruin [things];
-He does not hold on to [things],
-And as a result, he doesn't lose [things];
-In people's handling of affairs, they always ruin things when they're right at the point of completion.
-Therefore we say, "If you're as careful at the end as you were at the beginning, you'll have no failures."
-Therefore the Sage desires not to desire and doesn't value goods that are hard to obtain;
-He learns not to learn and returns to what the masses pass by;
-He could help all things to be natural, yet he dare not do it.
 65
 Those who practiced the Way in antiquity,
 Did not use it to enlighten the people.
